@@ -1,0 +1,2 @@
+feature B 1
+f b 2
